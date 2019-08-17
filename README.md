@@ -3,4 +3,5 @@
 ## Pods
 - TinyCrayon
 - Panels
+- SwiftyStoreKit
 - ...
