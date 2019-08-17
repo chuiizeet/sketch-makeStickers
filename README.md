@@ -10,6 +10,7 @@
 
 - TinyCrayon
 - Panels
+- OnboardKit
 - SwiftyStoreKit
 - SDWebImage
 - SDWebImageWebPCoder
