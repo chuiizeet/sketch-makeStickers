@@ -10,7 +10,8 @@
 
 - TinyCrayon
 - Panels
-- OnboardKit
+- OnboardKit <Test>
 - SwiftyStoreKit
 - SDWebImage
 - SDWebImageWebPCoder
+- TextFieldEffects
